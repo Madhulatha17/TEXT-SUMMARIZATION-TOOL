@@ -23,3 +23,7 @@ This project demonstrates how Artificial Intelligence can be applied to solve re
 The tool is implemented using Python and standard libraries. The application runs through a command-line interface where users can enter text and instantly receive a summarized version. The generated summary contains the most relevant information from the original text, making it easier for users to understand the content quickly.
 
 The project successfully achieves its objective of creating a simple and efficient text summarization system. It demonstrates the practical use of AI and NLP techniques for text analysis and information extraction. The developed solution is user-friendly, lightweight, and can be further enhanced using advanced machine learning and deep learning models for improved summarization accuracy in future versions.
+
+#OUTPUT
+
+<img width="1633" height="629" alt="Image" src="https://github.com/user-attachments/assets/64c5b1d8-addb-4124-92cb-abb8bce6029f" />
