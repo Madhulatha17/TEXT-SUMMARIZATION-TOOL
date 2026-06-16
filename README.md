@@ -24,12 +24,7 @@ The tool is implemented using Python and standard libraries. The application run
 
 The project successfully achieves its objective of creating a simple and efficient text summarization system. It demonstrates the practical use of AI and NLP techniques for text analysis and information extraction. The developed solution is user-friendly, lightweight, and can be further enhanced using advanced machine learning and deep learning models for improved summarization accuracy in future versions.
 
-# Requirements
 
-Install dependencies using:
-
-```bash
-pip install -r requirements.txt
 
 #OUTPUT
 
